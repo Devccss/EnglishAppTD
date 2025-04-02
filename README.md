@@ -1,7 +1,6 @@
 # App para promover el aprendisaje del Ingles
 
-## Arquitectura de la app
-### Frontend (App Móvil en Android)
+## Frontend 
 #### - Kotlin + Jetpack Compose (para una interfaz moderna y fluida)
 
 #### - WorkManager (para programar notificaciones diarias)
@@ -14,7 +13,7 @@
 
 #### - Dagger/Hilt (para inyección de dependencias)
 
-### Backend (Servidor y Base de Datos)
+## Backend
 #### - Ktor o Spring Boot (con Kotlin) (para manejar la API)
 
 #### - PostgreSQL (como base de datos principal)
